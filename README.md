@@ -1,5 +1,6 @@
 # Gerador de Senhas Aleatórias
-Aplicação que cria um gerador de senhas com o auxílio da biblioteca [nanoid](https://www.npmjs.com/package/nanoid)
+Aplicação que cria um gerador de senhas com o auxílio da biblioteca [nanoid](https://www.npmjs.com/package/nanoid). Além disso, ao clicar em cima da senha gerada, ela é copiada automaticamente.
+<img src="./gerador-de-senhas.png">
 
 ## :computer: Visualize este projeto:
 Acesse a página aqui:
